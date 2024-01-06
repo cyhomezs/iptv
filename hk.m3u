@@ -1,20 +1,25 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_HK.xml"
-#EXTINF:-1 tvg-id="105176" tvg-name="TVB 翡翠台" group-title="綜合" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png",TVB 翡翠台
+#EXTINF:-1 tvg-id="105326" tvg-name="TVB 翡翠台" group-title="綜合" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/TVB%E6%98%8E%E7%8F%A0%E5%8F%B0.png",TVB 翡翠台
 https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="105326" tvg-name="TVB Pearl" group-title="綜合" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/TVB%E6%98%8E%E7%8F%A0%E5%8F%B0.png",TVB Pearl
-https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
+http://50.7.238.114:8278/pearl_twn/playlist.m3u8?tid=MC6C7041327570413275&ct=19226&tsum=681972baf66d69caf7cccc92a90e5aad
+#EXTINF:-1 group-title="新聞" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720192239085500_67.png",[HD]无线新闻台
+https://edge6a.v2h-cdn.com/news/news.stream/chunklist.m3u8
+#EXTINF:-1 group-title="新聞" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720192239085500_67.png",[BD]無綫新聞台
+https://i.125011.xyz/tvb.php?id=0&hq
+#EXTINF:-1 group-title="新聞" tvg-logo="https://epg.pw/media/images/channel/2020/07/14/large/20200714005324551300_94.png",[HD]有线新闻台
+https://epg.pw/stream/37621f3d1d385bf204fa33bd1783610b135e7e7ca6175e1349fec9c4f662ba34.m3u8
+#EXTINF:-1 group-title="新聞" tvg-logo="https://epg.pw/media/images/channel/2020/07/14/large/20200714005324551300_94.png",[HD]有线新闻台
+https://epg.pw/stream/24ad86b6b170c8279e4b2961c998b8f0837e3217812ead12388ec930f2cb4ca8.ctv
+
 #EXTINF:-1 group-title="新聞" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722211941013059_20.png",[BD]hoy tv77
 https://epg.pw/stream/d03f13beaa8f34f0540a8b022400a0ae5f1e6f7e377c2d248bf57053d5c086ea.ctv
 #EXTINF:-1 group-title="新聞" tvg-logo="https://epg.pw/media/images/channel/2023/07/19/large/20230719083827856598_33.png",rthk32
 https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
-#EXTINF:-1 group-title="新聞" tvg-logo="https://epg.pw/media/images/channel/2023/07/24/large/20230724141930738371_29.png",[BD]rthk33
-https://epg.pw/stream/7784f202591797be966bdec85d8d6e73e53bab96368869e775a142e8ffeaf93c.m3u8
 #EXTINF:-1 group-title="綜藝" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722193850054037_87.png",[BD]tvb j2
 https://epg.pw/stream/1936e0180ebd92426c3868ef2bdd66c8217fbe9b33c7061122dc46c27ae56c78.ctv
 #EXTINF:-1 group-title="電影" tvg-logo="https://epg.pw/media/images/channel/2023/12/08/large/20231208223626594389_27.png",[BD]tvbs亚洲
 https://epg.pw/stream/c88adc69fe22cc05c7ff2984ad14db99f461e6dda12687cb7bbaf5e03a357a38.m3u8
-#EXTINF:-1 group-title="新聞" tvg-logo="https://epg.pw/media/images/channel/2022/08/07/large/20220807134835358971_10.jpg",[HD]TVB無線新聞[geo-blocked]
-https://epg.pw/stream/2d94ffa4defe58ba4dfc33efee242afab3bf4fdc96f0b129110777c434cbfdbb.ctv
 #EXTINF:-1 group-title="綜合" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720193925517675_19.png",[BD]VIUTV[geo-blocked]
 https://epg.pw/stream/c77e77c3c52d418a5b3e65f0b5bf8fd2e3cbb2362bb2894161cbde77bf30a96b.ctv
 #EXTINF:-1 group-title="綜藝" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720193559298867_98.png",[BD]ViuTvsix[geo-blocked]
@@ -23,14 +28,10 @@ https://epg.pw/stream/15a0a494c6dc62d3918a81b314b2b3769f69af215dd6a95d7fb77c06f9
 https://epg.pw/stream/f24adf3ae738b4720ff1599714fc3ba70607c0f3ceea78303f37d5b4aa1dcf0d.m3u8
 #EXTINF:-1 group-title="新聞" tvg-logo="https://epg.pw/media//tmp/123.png",[BD]tvbs新闻
 https://epg.pw/stream/34b62c472f066e823052d269c322b8dc8150262fa8022acd359cd6702296b794.m3u8
-#EXTINF:-1 group-title="新聞" tvg-logo="https://epg.pw/media/images/channel/2020/07/14/large/20200714005324551300_94.png",[HD]有线新闻台
-https://epg.pw/stream/37621f3d1d385bf204fa33bd1783610b135e7e7ca6175e1349fec9c4f662ba34.m3u8
+
 #EXTINF:-1 group-title="新聞" tvg-logo="https://epg.pw/media/images/channel/2020/06/25/large/20200625232336807856_57.png",[HD]有线财经信息台
 https://epg.pw/stream/0fddc0600d3868b05ad741d46294410aebca0fdc4fada5028dc54e624b7b17ca.m3u8
-#EXTINF:-1 group-title="新聞" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720192239085500_67.png",[HD]无线新闻台[geo-blocked]
-https://epg.pw/stream/d07688640684498fb773e7cd13b2f90abcd1cdc4683c44533cef67dac722c2fc.ctv
-#EXTINF:-1 group-title="新聞" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720192239085500_67.png",[BD]無綫新聞台@@1[geo-blocked]
-https://epg.pw/stream/24ad86b6b170c8279e4b2961c998b8f0837e3217812ead12388ec930f2cb4ca8.ctv
+
 #EXTINF:-1 group-title="其它" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/10/14/20161014131011501629_83.jpg",[HD]甄子丹[geo-blocked]
 https://epg.pw/stream/4c65cee79a22a5ca55ca05fb71f8c21edcbe2fdfafdbc3f464643cb925d16275.ctv
 #EXTINF:-1 group-title="新聞" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/09/18/20150918230530279656_17.png",[SD]耀才財經台
