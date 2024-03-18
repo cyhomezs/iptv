@@ -1,18 +1,14 @@
 #EXTINF:-1 tvg-id="105326" tvg-name="TVB 翡翠台" group-title="綜合" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/TVB%E6%98%8E%E7%8F%A0%E5%8F%B0.png",TVB 翡翠台
-https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
-http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=MDAD1890217018902170&ct=19249&tsum=36346362d72a1e85802fa5d3eee3861c
+
 #EXTINF:-1 tvg-id="105326" tvg-name="TVB Pearl" group-title="綜合" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/TVB%E6%98%8E%E7%8F%A0%E5%8F%B0.png",TVB Pearl
-http://198.16.100.90:8278/pearl_twn/playlist.m3u8?tid=MC6C7041327570413275&ct=19226&tsum=681972baf66d69caf7cccc92a90e5aad
+http://yuju666888.x3322.net:808/hls/106/index.m3u8
 #EXTINF:-1 group-title="綜藝" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722193850054037_87.png",TVB J2
 https://epg.pw/stream/1936e0180ebd92426c3868ef2bdd66c8217fbe9b33c7061122dc46c27ae56c78.ctv
 http://50.7.238.114:8278/j2_twn/playlist.m3u8?tid=MA8A1176878411768784&ct=19225&tsum=fea41bb592165942b9971148376f8b70
 #EXTINF:-1 group-title="新聞" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720192239085500_67.png",无线新聞台
 http://live.cooltv.top/tv/tvb.php?id=0&hq
-http://198.16.100.90:8278/inews_twn/playlist.m3u8?tid=MD8D9734527497345274&ct=19249&tsum=88c5d57f9fdce89810d61e1001910a80
-http://198.16.100.90:8278/inews_twn/playlist.m3u8?tid=MF7F8784108987841089&ct=19225&tsum=50d719a9ed62cc070153963585e6d9d3
 #EXTINF:-1 group-title="新聞" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/%E6%97%A0%E7%BA%BF%E8%B4%A2%E7%BB%8F%E5%8F%B0.png",无线财经体育资讯台
 http://live.cooltv.top/tv/tvb.php?id=2&hq
-http://198.16.100.90:8278/tvbcaijing_twn/playlist.m3u8?tid=MD3D9552893795528937&ct=19254&tsum=77d4c2db4fa7537d7dd3eb19f933526d
 #EXTINF:-1 group-title="綜藝" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/RTHK31.png",RTHK31
 http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_810_av-b.m3u8
 #EXTINF:-1 group-title="綜藝" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/RTHK32.png",RTHK32
