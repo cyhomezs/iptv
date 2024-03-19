@@ -1,5 +1,5 @@
 #EXTINF:-1 tvg-id="105326" tvg-name="TVB 翡翠台" group-title="綜合" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/TVB%E6%98%8E%E7%8F%A0%E5%8F%B0.png",TVB 翡翠台
-
+http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
 #EXTINF:-1 tvg-id="105326" tvg-name="TVB Pearl" group-title="綜合" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/TVB%E6%98%8E%E7%8F%A0%E5%8F%B0.png",TVB Pearl
 http://yuju666888.x3322.net:808/hls/106/index.m3u8
 #EXTINF:-1 group-title="綜藝" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722193850054037_87.png",TVB J2
