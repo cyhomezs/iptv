@@ -670,9 +670,9 @@ https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
 http://61.238.177.254:30261/stream/channelid/1328960581
 http://123.202.245.120:8009/bysid/78.m3u8
 #EXTINF:-1 tvg-name="无线新闻" group-title="•港澳台「P」",「HK」无线新闻
-https://epg.pw/stream/8a901f8dbc93b286fc53ceceda0a7198f41dfd91a2ca2a528e314aea87eb806b.m3u8
+https://histar.zapi.us.kg/?id=tvb-news
+http://histar-proxy.isus.cc/tvb-news
 http://php.jdshipin.com:8880/smt.php?id=inews_twn
-http://live.cooltv.top/tv/tvb.php?id=0&hq
 #EXTINF:-1 group-title="•港澳台「P」",「HK」香港RTHK33
 https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
 #EXTINF:-1 group-title="•港澳台「P」",「HK」香港RTHK34
