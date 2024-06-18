@@ -1,4 +1,47 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="无线新闻" group-title="•港澳台「P」",「HK」无线新闻
+https://histar.zapi.us.kg/?id=tvb-news
+http://histar-proxy.isus.cc/tvb-news
+#EXTINF:-1 tvg-name="翡翠台" group-title="•港澳台「P」",翡翠台
+https://histar.zapi.us.kg/?id=feicui
+#EXTINF:-1 tvg-name="TVB明珠台" group-title="•港澳台「P」",TVB明珠台
+https://histar.zapi.us.kg/?id=pearl
+#EXTINF:-1 tvg-name="TVB华剧台" group-title="•港澳台「P」",TVB华剧台
+https://histar.zapi.us.kg/?id=golden-chinese-drama
+#EXTINF:-1 tvg-name="TVB星河台" group-title="•港澳台「P」",TVB星河台
+https://histar.zapi.us.kg/?id=tvb-xinghe
+#EXTINF:-1 tvg-name="TVB Plus" group-title="•港澳台「P」",TVB Plus
+http://histar-proxy.isus.cc/tvb-plus
+#EXTINF:-1 tvg-name="J2" group-title="•港澳台「P」",TVB J2
+http://histar-proxy.isus.cc/j2
+#EXTINF:-1 tvg-name="MyTvSuper 18" group-title="•港澳台「P」",MyTvSuper 18
+https://histar.zapi.us.kg/?id=mytvsuper-18
+#EXTINF:-1 tvg-name="Now新闻台" group-title="•港澳台「P」",Now新闻台
+https://histar.zapi.us.kg/?id=now-news
+#EXTINF:-1 tvg-name="Now HBO Hits" group-title="•港澳台「P」",Now HBO Hits
+https://histar.zapi.us.kg/?id=now-hbo-hits
+#EXTINF:-1 tvg-name="Now 星影台" group-title="•港澳台「P」",Now 星影台
+https://histar.zapi.us.kg/?id=now-baogu-superstars
+#EXTINF:-1 tvg-name="Now 财经台" group-title="•港澳台「P」",Now 财经台
+https://histar.zapi.us.kg/?id=now-finance
+#EXTINF:-1 tvg-name="Now 报价台" group-title="•港澳台「P」",Now 报价台
+https://histar.zapi.us.kg/?id=now-data
+#EXTINF:-1 tvg-name="Now 爆谷台" group-title="•港澳台「P」",Now 爆谷台
+https://histar.zapi.us.kg/?id=baogu-movies
+#EXTINF:-1 tvg-name="Now 直播台" group-title="•港澳台「P」",Now 直播台
+https://histar.zapi.us.kg/?id=now-direct
+#EXTINF:-1 tvg-name="香港开电视" group-title="•港澳台「P」",HOY TV
+https://histar.zapi.us.kg/?id=hoytv
+#EXTINF:-1 tvg-name="ViuTV6" group-title="•港澳台「P」",ViuTV6
+https://histar.zapi.us.kg/?id=viutv6
+#EXTINF:-1 tvg-name="ViuTV" group-title="•港澳台「P」",ViuTV
+http://histar-proxy.isus.cc/viutv
+#EXTINF:-1 group-title="•港澳台「P」",「HK」香港RTHK33
+https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
+#EXTINF:-1 group-title="•港澳台「P」",「HK」香港RTHK34
+https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
+#EXTINF:-1 group-title="•港澳台「P」",「HK」香港RTHK35
+https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
 #EXTINF:-1 tvg-name="LoveNrture" group-title="•4K",Love Nrture 4K「自然」
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 tvg-name="Loupe" group-title="•4K",Loupe 4K
@@ -651,38 +694,6 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV68.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
 #EXTINF:-1 tvg-name="Taiwan+" group-title="•YouTube「P」",Taiwan+
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
-#EXTINF:-1 group-title="•港澳台「P」",香港国际财经
-https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
-#EXTINF:-1 group-title="•港澳台「P」",翡翠台
-http://php.jdshipin.com:8880/smt.php?id=jade_twn
-http://grandprix2023.asuscomm.com:8889/bysid/1.m3u8
-http://154.9.228.245:741/smt.php?id=jade_twn
-https://z88.ubtvfans.com/live/rx1/30/5e6d82f65cc2bfa60d62dbbe57dedd86/index.m3u8
-https://z88.ubtvfans.com/live/rx1/390/207eb167765508c920915d1ce02433f0/index.m3u8
-#EXTINF:-1 group-title="•港澳台「P」",TVB明珠台
-https://z88.ubtvfans.com/live/rx1/2437/43f3e7d06eeb53f3057cb2780fd11a50/index.m3u8
-#EXTINF:-1 group-title="•港澳台「P」",now新闻台
-http://198.204.244.250:8080/live/137/hls.m3u8
-#EXTINF:-1 tvg-name="香港开电视" group-title="•港澳台「P」",HOY TV
-https://live-hls-web-ajb.getaj.net/AJB/01.m3u8
-#EXTINF:-1 group-title="•港澳台「P」",HOY 资讯台
-https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
-http://61.238.177.254:30261/stream/channelid/1328960581
-http://123.202.245.120:8009/bysid/78.m3u8
-#EXTINF:-1 tvg-name="无线新闻" group-title="•港澳台「P」",「HK」无线新闻
-https://histar.zapi.us.kg/?id=tvb-news
-http://histar-proxy.isus.cc/tvb-news
-http://php.jdshipin.com:8880/smt.php?id=inews_twn
-#EXTINF:-1 group-title="•港澳台「P」",「HK」香港RTHK33
-https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
-#EXTINF:-1 group-title="•港澳台「P」",「HK」香港RTHK34
-https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
-#EXTINF:-1 group-title="•港澳台「P」",「HK」香港RTHK35
-https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/J2.png" group-title="•港澳台「P」",TVB J2
-http://nz189l149.bb27109.ctm.net:8892/bysid/82
-#EXTINF:-1 group-title="•港澳台「P」",「HK」TVB娱乐新闻台
-https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
 #EXTINF:-1 group-title="•港澳台「P」",AnimalPlanet
 http://198.16.100.90:8278/AnimalPlanet/playlist.m3u8?tid=MC3C3856400538564005&ct=19225&tsum=6255ab9649411a8a70c7cbf2ebd7eb23
 #EXTINF:-1 group-title="•港澳台「P」",Awani
@@ -737,8 +748,7 @@ http://50.7.238.114:8278/tvbshuanle_twn/playlist.m3u8?ct=19193&tid=MC8C231878792
 http://198.16.100.90:8278/tvbshuanle_twn/playlist.m3u8?tid=MA9A4111409641114096&ct=19225&tsum=600f3056bba6413dec3155efd19e2d20
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="•港澳台「P」",TVBS新聞
 http://50.7.238.114:8278/tvbs_n/playlist.m3u8?tid=MC3C9358473393584733&ct=19193&tsum=38970ab977b9e318cbead37db4134eb8
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/VIUTV.png" group-title="•港澳台「P」",ViuTV6
-http://50.7.238.114:8278/viusix_twn/playlist.m3u8?tid=MD7D9950629799506297&ct=19234&tsum=83ba3013be3e325b775bcd348b38eab1
+
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/阿里郎ARIRANG.png" group-title="•港澳台「P」",阿里郎 Arirang
 http://50.7.238.114:8278/arirang_twn/playlist.m3u8?tid=MF5F3988861839888618&ct=19249&tsum=781d490a6abe9f48f5b93e211cbe0307
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/愛爾達體育.png" group-title="•港澳台「P」",愛爾達體育1台
