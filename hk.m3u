@@ -1,19 +1,44 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="无线新闻" group-title="•港澳台「P」",「HK」无线新闻
+http://live.cooltv.top/tv/tvb.php?id=0&hq
 https://histar.zapi.us.kg/?id=tvb-news
-http://histar-proxy.isus.cc/tvb-news
 #EXTINF:-1 tvg-name="翡翠台" group-title="•港澳台「P」",翡翠台
+http://grandprix2023.asuscomm.com:8889/bysid/1.m3u8
+http://php.jdshipin.com:8880/smt.php?id=jade_twn
 https://histar.zapi.us.kg/?id=feicui
-#EXTINF:-1 tvg-name="TVB明珠台" group-title="•港澳台「P」",TVB明珠台
+#EXTINF:-1 tvg-name="明珠台" group-title="•港澳台「P」",明珠台
+http://php.jdshipin.com:8880/smt.php?id=pearl_twn
 https://histar.zapi.us.kg/?id=pearl
+#EXTINF:-1 tvg-name="J2" group-title="•港澳台「P」",J2
+http://php.jdshipin.com:8880/smt.php?id=j2_twn
+https://histar.zapi.us.kg/?id=j2
+#EXTINF:-1 tvg-name="TVB Plus" group-title="•港澳台「P」",TVB Plus
+http://zsntlqj.xicp.net:8896/bysid/82.m3u8
+http://histar-proxy.isus.cc/tvb-plus
+#EXTINF:-1 tvg-name="TVB星河台" group-title="•港澳台「P」",TVB星河台
+https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
+http://php.jdshipin.com:8880/smt.php?id=Xinhe
+https://histar.zapi.us.kg/?id=tvb-xinghe
+#EXTINF:-1 tvg-name="香港开电视" group-title="•港澳台「P」",HOY TV
+https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
+#EXTINF:-1 tvg-name="HOY 资讯台" group-title="•港澳台「P」",HOY 资讯台
+https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
+#EXTINF:-1 tvg-name="ViuTVsix" group-title="•港澳台「P」",ViuTVsix
+http://grandprix2023.asuscomm.com:8889/bysid/96.m3u8
+https://histar.zapi.us.kg/?id=viutv6
+#EXTINF:-1 tvg-name="ViuTV" group-title="•港澳台「P」",ViuTV
+http://php.jdshipin.com:8880/smt.php?id=viu1_twn
+http://grandprix2023.asuscomm.com:8889/bysid/99.m3u8
+#EXTINF:-1 tvg-name="RTHK31" group-title="•港澳台「P」",RTHK31
+https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
+#EXTINF:-1 tvg-name="RTHK32" group-title="•港澳台「P」",RTHK32
+https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
+#EXTINF:-1 tvg-name="耀才財經台" group-title="•港澳台「P」",耀才財經台
+http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+
+
 #EXTINF:-1 tvg-name="TVB华剧台" group-title="•港澳台「P」",TVB华剧台
 https://histar.zapi.us.kg/?id=golden-chinese-drama
-#EXTINF:-1 tvg-name="TVB星河台" group-title="•港澳台「P」",TVB星河台
-https://histar.zapi.us.kg/?id=tvb-xinghe
-#EXTINF:-1 tvg-name="TVB Plus" group-title="•港澳台「P」",TVB Plus
-http://histar-proxy.isus.cc/tvb-plus
-#EXTINF:-1 tvg-name="J2" group-title="•港澳台「P」",TVB J2
-https://histar.zapi.us.kg/?id=j2
 #EXTINF:-1 tvg-name="MyTvSuper 18" group-title="•港澳台「P」",MyTvSuper 18
 https://histar.zapi.us.kg/?id=mytvsuper-18
 #EXTINF:-1 tvg-name="Now新闻台" group-title="•港澳台「P」",Now新闻台
@@ -30,18 +55,6 @@ https://histar.zapi.us.kg/?id=now-data
 https://histar.zapi.us.kg/?id=baogu-movies
 #EXTINF:-1 tvg-name="Now 直播台" group-title="•港澳台「P」",Now 直播台
 https://histar.zapi.us.kg/?id=now-direct
-#EXTINF:-1 tvg-name="香港开电视" group-title="•港澳台「P」",HOY TV
-https://histar.zapi.us.kg/?id=hoytv
-#EXTINF:-1 tvg-name="ViuTV6" group-title="•港澳台「P」",ViuTV6
-https://histar.zapi.us.kg/?id=viutv6
-#EXTINF:-1 tvg-name="ViuTV" group-title="•港澳台「P」",ViuTV
-http://histar-proxy.isus.cc/viutv
-#EXTINF:-1 group-title="•港澳台「P」",「HK」香港RTHK33
-https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
-#EXTINF:-1 group-title="•港澳台「P」",「HK」香港RTHK34
-https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
-#EXTINF:-1 group-title="•港澳台「P」",「HK」香港RTHK35
-https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
 #EXTINF:-1 tvg-name="LoveNrture" group-title="•4K",Love Nrture 4K「自然」
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 tvg-name="Loupe" group-title="•4K",Loupe 4K
